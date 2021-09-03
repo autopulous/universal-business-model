@@ -1,0 +1,2 @@
+UPDATE subject id = RECNO() WHERE id = 0
+Error in line 91: Command contains unrecognized phrase/keyword.
